@@ -1,6 +1,6 @@
 # Nexalware
 
-> The AIoT Infrastructure Platform. Africa First. World Class.
+> The AIoT Infrastructure Platform. Engineered for unreliable power, limited connectivity, and massive scale.
 
 Nexalware is the connectivity and intelligence layer between 
 any embedded device and the people who need to monitor and 
