@@ -39,7 +39,7 @@ Join the waitlist at [nexalware.com](https://www.nexalware.com)
 
 ## Community
 
-Built alongside [openFutureCamp](https://t.me/openfuturecamp) — 
+Built alongside [openFutureCamp](https://t.me/openfuturecamp) 
 a free community helping African developers build with AI 
 and emerging technologies.
 
